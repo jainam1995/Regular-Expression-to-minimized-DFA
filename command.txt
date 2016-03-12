@@ -1,0 +1,6 @@
+g++ re.cpp
+./a.out
+g++ nfa2dfak.cpp
+./a.out
+g++ mindfa2.cpp
+./a.out
